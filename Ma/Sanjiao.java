@@ -1,6 +1,6 @@
 package Ma;
 
-public class yanghuisanjiao {
+public class Sanjiao {
 	int[][] a;
     public int[][] yang(int n){
         a = new int[n][n];
