@@ -4,7 +4,7 @@ public class Sanjiao {
 	int[][] a;
     public int[][] yang(int n){
         a = new int[n][n];
-        for(int i=0;i<n;i++){
+        for(int i=0;i<n;++i){
 
                 a[i][0]=1;
                 a[i][i]=1;//第一行输出1，第二行输出1 1
